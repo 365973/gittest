@@ -1,2 +1,6 @@
 test1
+<<<<<<< HEAD
 Creating dfa new branch is quick2
+=======
+can dev update?
+>>>>>>> dev
